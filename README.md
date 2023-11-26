@@ -32,6 +32,7 @@
 <img align="center" alt="GeorgeCruzX-Facebook" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <img align="center" alt="GeorgeCruzX-Firefox" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
 <img align="center" alt="GeorgeCruzX-Gimp" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+<img align="center" alt="GeorgeCruzX-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
 <img align="center" alt="GeorgeCruzX-Github" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="center" alt="GeorgeCruzX-Google" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 <img align="center" alt="GeorgeCruzX-Html5" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
@@ -39,6 +40,7 @@
 <img align="center" alt="GeorgeCruzX-Javascript" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="GeorgeCruzX-Linkedin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img align="center" alt="GeorgeCruzX-Linux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="GeorgeCruzX-Mongo" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="center" alt="GeorgeCruzX-Mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="GeorgeCruzX-Npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="center" alt="GeorgeCruzX-Opera" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" />
