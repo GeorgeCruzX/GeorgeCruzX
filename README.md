@@ -1,10 +1,16 @@
-### Olá eu sou o George Cruz
+### Eu sou George Cruz, seja bem-vindo(a)!
 
 - 👯 14/02/1986
-- 🌎 Pontal do Paraná/PR (Brazil)
-- 📚 Technology in Systems Analysis and Development - IFPR (Campus Paranaguá)
-- 🔧 Computer And Printer Maintenance Technician
-- ⌨️ Systems Developer
+- 🌎 Pontal do Paraná/PR (Brasil)
+- 📚 Tecnologia em Análise e Desenvolvimento de Sistemas - Paranaguá-Pr - IFPR (Campus Paranaguá)
+- 🔧 Técnico de manutenção de computadores
+- 🔧 Técnico em instalação de antena via satélite
+- ⌨️ Desenvolvedor de Sistemas
+
+</div>
+
+- ➽ Inglês Básico
+- ➽ Experiência com vários tipos de sistemas de tecnologias digitais
   
 <div style="display: inline_block"><br>
   <img align="center" alt="GeorgeCruzX-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
