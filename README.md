@@ -30,4 +30,8 @@
   <a href = "mailto:gvelosocruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/george-lincon-veloso-cruz-56a838224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCruzX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/GeorgeCruzX">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCruzX&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgeCruzX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
