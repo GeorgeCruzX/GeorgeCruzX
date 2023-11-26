@@ -1,16 +1,16 @@
 ### Olá eu sou o George Cruz
 
 - 👯 14/02/1986
-- 🌎 Paranaguá/PR (Brazil)
+- 🌎 Pontal do Paraná/PR (Brazil)
 - 📚 Technology in Systems Analysis and Development - IFPR (Campus Paranaguá)
 - 🔧 Computer And Printer Maintenance Technician
 - ⌨️ Systems Developer
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="GeorgeCruzX-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="GeorgeCruzX-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="GeorgeCruzX-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="GeorgeCruzX-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="GeorgeCruzX-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="GeorgeCruzX-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="GeorgeCruzX-Atom" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img align="center" alt="GeorgeCruzX-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img align="center" alt="GeorgeCruzX-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="GeorgeCruzX-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="GeorgeCruzX-Apache" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
