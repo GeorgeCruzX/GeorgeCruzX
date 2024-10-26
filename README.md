@@ -2,7 +2,7 @@
 
 - 👯 14/02/1986
 - 🌎 Pontal do Paraná/PR (Brasil)
-- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - Paranaguá-Pr - IFPR (Campus Paranaguá)
+- 📚 Cursando Tecnologia em Análise e Desenvolvimento de Sistemas - IFPR (Campus Paranaguá)
 - 🔧 Técnico de manutenção de computadores
 - 🔧 Técnico em instalação de antena via satélite
 - ⌨️ Desenvolvedor de Sistemas
