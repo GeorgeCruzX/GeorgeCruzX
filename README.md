@@ -1,20 +1,21 @@
 <div align="center">
 
-# 🌑 George Cruz  
+# 🟩 George Cruz  
 ### Desenvolvedor Full Stack | Flutter • Laravel • MySQL • Docker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Flutter+%7C+Laravel+%7C+MySQL;Docker+%7C+APIs+%7C+React;Criando+soluções+digitais+reais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=700&lines=01001000+01100101+01101100+01101100+01101111;Desenvolvedor+Full+Stack;Flutter+%7C+Laravel+%7C+MySQL;Docker+%7C+APIs+%7C+React;Criando+soluções+digitais+reais" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim  
+# 🟢 Sobre Mim  
 
-💻 Desenvolvedor focado em criar soluções modernas para sistemas web e mobile.  
-📱 Experiência com Flutter, Laravel, React, APIs RESTful e MySQL.  
-🌍 Desenvolvendo projetos com impacto social, incluindo plataformas para gestão pública e participação cidadã.  
-⚙️ Interesse em Docker, microserviços, segurança de APIs e automação.
+```bash
+> Desenvolvedor focado em criar soluções modernas para sistemas web e mobile.
+> Experiência com Flutter, Laravel, React, APIs RESTful e MySQL.
+> Projetos com impacto social e plataformas para gestão pública.
+> Interesse em Docker, microserviços, segurança de APIs e automação.
 
 ---
 
