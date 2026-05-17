@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=GeorgeCruzX&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img height="200em" src="https://streak-stats.demolab.com?user=GeorgeCruzX&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00CC33&sideNums=00FF41"/>
 
 </div>
 
