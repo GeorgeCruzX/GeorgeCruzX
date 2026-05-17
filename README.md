@@ -16,6 +16,8 @@
 🌍 Desenvolvendo projetos com impacto social, incluindo plataformas para gestão pública e participação cidadã.  
 ⚙️ Interesse em Docker, microserviços, segurança de APIs e automação.
 
+</div>
+
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
@@ -33,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🔥 Projetos em Destaque  
 
 ### 📌 SRP - Sistema de Reclamação Popular  
@@ -55,6 +45,8 @@ Sistema distribuído com Python, Docker e MySQL.
 
 ### 📌 Gestão de Produtos Laravel  
 Sistema com autenticação, controle de estoque e QR Code.
+
+</div>
 
 ---
 
