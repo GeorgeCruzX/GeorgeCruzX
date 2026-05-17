@@ -54,6 +54,8 @@ Sistema distribuído com Python, Docker e MySQL.
 ### 📌 Gestão de Produtos Laravel  
 Sistema com autenticação, controle de estoque e QR Code.
 
+</div>
+
 ---
 
 ## 🌐 Conecte-se Comigo  
